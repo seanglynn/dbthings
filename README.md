@@ -1,2 +1,2 @@
 # dbthings
-dbt resources
+Learning resources for DBT

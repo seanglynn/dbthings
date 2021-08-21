@@ -1,0 +1,10 @@
+dbt-airflow-tutorial/sample_data/__MACOSX/._aisles.csv
+dbt-airflow-tutorial/sample_data/__MACOSX/._departments.csv
+dbt-airflow-tutorial/sample_data/__MACOSX/._order_products__train.csv
+dbt-airflow-tutorial/sample_data/__MACOSX/._orders.csv
+dbt-airflow-tutorial/sample_data/__MACOSX/._products.csv
+dbt-airflow-tutorial/sample_data/aisles.csv
+dbt-airflow-tutorial/sample_data/departments.csv
+dbt-airflow-tutorial/sample_data/order_products__train.csv
+dbt-airflow-tutorial/sample_data/orders.csv
+dbt-airflow-tutorial/sample_data/products.csv

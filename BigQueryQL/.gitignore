@@ -1,4 +1,0 @@
-dbt-airflow-tutorial/dbt/dbt_modules
-dbt-airflow-tutorial/dbt/data/*
-dbt-airflow-tutorial/dbt/logs/*
-dbt-airflow-tutorial/sample_data
